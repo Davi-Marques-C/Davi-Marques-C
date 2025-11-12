@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Davi
 
-<!--
-**Davi-Marques-C/Davi-Marques-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de programação e entusiasta de tecnologia.  
+🧠 Aprendendo Python, HTML, CSS, JavaScript e C#.  
+🎮 Criando meus próprios jogos e projetos pessoais.  
 
-Here are some ideas to get you started:
+## 🚀 Minhas linguagens favoritas
+- Python 🐍  
+- C# ⚙️  
+- JavaScript 🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- 📧 Email: davimarquescarneiro@outlook.com
